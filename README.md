@@ -50,7 +50,7 @@ For app listings, descriptions, screenshots, and downloads, visit:
 
 **Neptune Corporation App Store**
 
-[Website Link Here]
+(https://sites.google.com/view/neptunecorporation-app-store/home
 
 ## Developer Resources
 
